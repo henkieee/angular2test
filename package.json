@@ -1,0 +1,15 @@
+{
+  "name": "angular2test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular2": "^2.0.0-alpha.46",
+    "live-server": "^0.8.2"
+  }
+}
